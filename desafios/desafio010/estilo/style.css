@@ -59,17 +59,20 @@ header{
 }
 
 header > h1 {
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: var(--fonte-destaque);
+    text-align: center;
 }
 
 header > p{
-    color: white;
+   color: white;
+   text-align: center;
+   padding: 15px;
 }
 
 nav{
     background-color: var(--cor5);
-    color: white;
+    color: white
 }
 
 nav a{
