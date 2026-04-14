@@ -1,2 +1,2 @@
 # html-css
-Praticando HTML e CSS
+Aprendendo e Praticando HTML e CSS, com o CursoemVideo
